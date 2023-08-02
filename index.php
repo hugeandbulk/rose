@@ -21,5 +21,7 @@ echo "rose, a php based system!";
 */
 echo "\nPrincipal Architect : Prabhat Kumar";
 echo "\nCreator : Prabhat Kumar";
+echo "\n";
+echo "\n";
 /* ———— eof-— */
 ?>
