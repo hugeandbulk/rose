@@ -1,2 +1,4 @@
 # rose
-_*rose, a php based system (utility ware)*_. 
+_*rose, a php based system (utility ware)*_.
+
+.arch — architecture file.
