@@ -16,6 +16,8 @@ echo "rose, a php based system!";
 | Company   : ¦  Infinity, Inc. ¦
 |--------------------------------
 | COO       : ¦  Zareen Khan    ¦
+|
+| Dated — 2nd August, 2023 
 */
 /* ———— eof-— */
 ?>
