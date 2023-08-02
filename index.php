@@ -19,5 +19,6 @@ echo "rose, a php based system!";
 |
 | Dated — 2nd August, 2023 
 */
+echo "\nPrincipal Architect : Prabhat Kumar";
 /* ———— eof-— */
 ?>
