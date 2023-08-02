@@ -6,8 +6,10 @@ echo "rose, a php based system!";
 |--------------------------------------------------------------------------
 |
 | The first thing we will do is create rose application.
-| Creator   : ¦ Prabhat Kumar ¦
-| Copyright : ¦ Prabhat Kumar ¦
-|
+| Creator   : ¦  Prabhat Kumar  ¦
+| Copyright : ¦  Prabhat Kumar  ¦
+| Company   : ¦  Infinity, Inc. ¦
+| COO       : ¦  Zareen Khan    ¦
 */
+/* ————eof-— */
 ?>
