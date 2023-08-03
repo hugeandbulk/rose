@@ -19,3 +19,4 @@ Actions:
 - `hey ();`
 - `init ();`
 - `deflate ();`
+- `protect ();`
