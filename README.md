@@ -21,3 +21,4 @@ Actions:
 - `deflate ();`
 - `protect ();`
 - `delete ();`
+- `clean ();`
