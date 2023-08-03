@@ -11,3 +11,4 @@ _*rose, a php based system (utility ware)*_.
 
 Actions
 - `rose ();`
+- `symmetry ();`
