@@ -14,3 +14,4 @@
 - `command ();`
 - `collect ();`
 - `purge ();`
+- `mercy ();`
