@@ -18,3 +18,4 @@ Actions:
 - `quit ();`
 - `hey ();`
 - `init ();`
+- `deflate ();`
