@@ -33,3 +33,50 @@ A 6-12-6 ratio means that the mixture contains 6% Nitrogen, 12% Phosphorus and 6
 What is the composition of rose flower?
 
 Franzen et al. (2016) characterized eight ornamental flower species in terms of chemical composition and caloric value of the petals, and found, for each 100 g of fresh rose petals, the following proportions: 72 calories, 10.9 g of carbohydrates, 1.84 g of proteins, 0.28 g of ether extract, and 3.5 g of fiber.
+
+What is the shape of rose?
+
+Roses offer a very wide selection of flower colors — single, bi-color, multi-color, blend, striped and hand-painted. Overall shape of the blooms comes in an equally diverse selection — globular, open-cupped, quartered, flat, rosette, pompon and high centered (often called exhibition form).
+
+What is the importance of rose?
+
+Roses encourage biodiversity in urban areas in many different ways. They supply insects with food, provide birds with nesting sites, and shelter small mammals. Their rose hips are also a welcome source of food for many bird species during the autumn and winter.
+
+What is the shape of rose leaf?
+
+Answer: The shape of rose leaf are alternate and pinnately compound.
+
+What is the biological class of a rose?
+
+Rose belongs to the kingdom of Plantae. Largest families of rose are Rosaceae and Urticaceae.
+
+What are 3 uses of rose flower?
+
+Uses. Roses are best known as ornamental plants grown for their flowers in the garden and sometimes indoors. They have been also used for commercial perfumery and commercial cut flower crops. Some are used as landscape plants, for hedging and for other utilitarian purposes such as game cover and slope stabilization.
+
+What are the beauty benefits of roses?
+
+An Anti-Inflammatory: Rose can help to calm your skin and reduce redness. It is particularly effective for oily and acne-prone skin. An Anti-Bacterial: Rose can also be used to sweep away dirt and impurities without stripping your skin of its moisture.
+
+What is the history of rose in India?
+
+In the 16th century when the Muslim Mughal emperors came from Persia and Afghanistan to rule India, they brought camel loads of roses. In fact the first Mughal emperor, Babar, is said to have brought the damask rose into India.
+
+Is a rose a monocot or dicot?
+Roses are an example of a dicot.
+
+They are dicots since they have two cotyledons, but they already share a number of additional characteristics with other dicots. The leaves are one of the easiest ways to detect if a rose is a dicot. Roses feature netted veins in their leaves, as do most dicots.
+
+Where do roses grow?
+
+All roses grow best in full sun with moist, well-drained soil rich in organic matter. Roses prefer slightly acidic soil (6-7 pH). Shrub roses are meant to be grown all over the country, especially in places where other rose species may not be very hardy.
+
+Which chemical is used in rose water?
+
+The volatiles consisted mainly of 2-phenylethanol (69.7–81.6%), linalool (1.5–3.3%), citronellol (1.8–7.2%), nerol (0.2–4.2%), geraniol (0.9–7.0%) along with rose oxides and all other characteristic minor rose compounds. Key Word Index: Rosa damascena. Rosaceae.
+
+
+
+
+
+
