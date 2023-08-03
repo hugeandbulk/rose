@@ -8,3 +8,5 @@ _*rose, a php based system (utility ware)*_.
 `.log — log file.`
 
 `.rose — rose file.`
+
+Actions
