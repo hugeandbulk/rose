@@ -14,3 +14,4 @@ Actions:
 - `symmetry ();`
 - `hit ();`
 - `scoff ();`
+- `quip ();`
