@@ -20,3 +20,4 @@ Actions:
 - `init ();`
 - `deflate ();`
 - `protect ();`
+- `delete ();`
