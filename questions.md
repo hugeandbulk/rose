@@ -13,3 +13,7 @@ Their stems are usually prickly and their glossy, green leaves have toothed edge
 What is the botanical name of rose and origin?
 
 Rosa rubiginosa is the scientific name for rose. Roses belong to the Rosaceae family, and there are about 360 species in the genus Rosa.
+
+What are the medicinal uses of roses?
+
+Rose flowers are Anti-depressant, anti-spasmodic, aphrodisiac, astringent, increase bile production, cleansing, anti- bacterial and antiseptic. Rose hips tea is also used in the treatment of diarrhoea. Rose petals are mildly sedative, antiseptic, anti- inflammatory, and anti- parasitic.
