@@ -25,3 +25,7 @@ Botanical Name : `Rosa Centifolia`.
 What is rose water called?
 
 Indian rose essence is extracted from small, deep red roses grown specifically for their inimitable fragrance, which is then diluted to make rose water also called as gulab jal.
+
+What is rose plant fertilizer?
+
+A 6-12-6 ratio means that the mixture contains 6% Nitrogen, 12% Phosphorus and 6% Potassium. It contains 24% total nutrients and 76% filler material. 6-12-6 is considered a Balanced Rose Food, as it supplies the basic ingredients in proportions beneficial to roses on a continual basis.
