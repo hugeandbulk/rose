@@ -29,3 +29,7 @@ Indian rose essence is extracted from small, deep red roses grown specifically f
 What is rose plant fertilizer?
 
 A 6-12-6 ratio means that the mixture contains 6% Nitrogen, 12% Phosphorus and 6% Potassium. It contains 24% total nutrients and 76% filler material. 6-12-6 is considered a Balanced Rose Food, as it supplies the basic ingredients in proportions beneficial to roses on a continual basis.
+
+What is the composition of rose flower?
+
+Franzen et al. (2016) characterized eight ornamental flower species in terms of chemical composition and caloric value of the petals, and found, for each 100 g of fresh rose petals, the following proportions: 72 calories, 10.9 g of carbohydrates, 1.84 g of proteins, 0.28 g of ether extract, and 3.5 g of fiber.
