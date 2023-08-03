@@ -22,3 +22,4 @@ Actions:
 - `protect ();`
 - `delete ();`
 - `clean ();`
+- `command ();`
