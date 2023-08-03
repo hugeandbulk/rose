@@ -21,3 +21,7 @@ Rose flowers are Anti-depressant, anti-spasmodic, aphrodisiac, astringent, incre
 What is rose petals called?
 
 Botanical Name : `Rosa Centifolia`.
+
+What is rose water called?
+
+Indian rose essence is extracted from small, deep red roses grown specifically for their inimitable fragrance, which is then diluted to make rose water also called as gulab jal.
