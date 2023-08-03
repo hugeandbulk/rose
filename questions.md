@@ -102,3 +102,67 @@ Roses range in size from tiny miniatures of 8 inches tall to tree climbing giant
 What type of symmetry is rose?
 
 In `radial symmetry`, the flower can be divided into two equal parts in any radial plane. Examples: datura, hibiscus, rose, etc.
+
+"Organisms with radial symmetry show a repeating pattern around a central axis such that they can be separated into several identical pieces when cut through the central point, much like pieces of a pie. Typically, this involves repeating a body part 4, 5, 6 or 8 times around the axis – referred to as tetramerism, pentamerism, hexamerism and octamerism, respectively. Such organisms exhibit no left or right sides but do have a top and a bottom surface, or a front and a back."
+
+Why is rose flower special?
+
+Today, roses are pretty much a universal symbol of love, with the meaning being shared across various cultures. Across much of the world, the red rose in particular is associated with love and romance, which is why it is the ultimate symbol of Valentine's Day.
+
+Why is rose unique?
+Roses Are One of the Oldest Flowers
+
+According to the Guinness Book of World Records, roses are the oldest species of plant to be grown as decoration. The rose (genus Rosa, family Rosaceae) is the oldest species of plant cultivated and used for decorative purposes.
+
+What are rose leaves called?
+
+Rose leaves are described as “pinnate” – that means there is a central rib and then leaflets off to each side, with one terminal leaflet. Rose leaves can have 2, 3, 5, 7, 9, 11, 13 leaflets. Most modern roses have a 5-leaflet leave with perhaps a few 3-leaflet leaves close to the bloom.
+
+What are the colors of roses?
+
+And what other garden flowers offer the range in color and versatility of the rose? Roses come in a virtual rainbow of hues, including pure white, yellow, pink, orange, red, lavender, plum purple, burgundy, and yes, even green, and everything in between.
+
+Why rose leaves are red?
+
+Rose bush leaves can be a red or bronze color when they are young and growing, because of the presence of anthocyanins. They protect the leaves from UV rays, keeping them safe from the sun when they are most vulnerable. As the plants mature, they do not need this help so the anthocyanins and the reddish hue fade.
+
+What is the lifespan of a rose?
+
+The average lifespan of a rose plant is approximately 5 to 7 years.
+
+What are the three categories of rose?
+
+The 3 Main Rose Categories
+
+While there are many varieties of roses, most rose specialists would divide them into three categories: Old Garden Roses, Wild Roses and Modern Roses.
+
+Where are rose used?
+
+They were used in incense and aphrodisiacs, garlands and perfumes, wines and food. They were also an important medicinal ingredient. The juice from rose petals was used as a rinse for sores in the mouth and gums.
+
+What does 99 roses mean?
+
+I will love you forever
+A single rose stalk represents love at first sight. A bouquet of 99 roses, however, is a timeless gift. It symbolises “I will love you forever”, or “I want to grow old with you”. This message of undying devotion is presented at proposals.
+
+Why are there 108 roses?
+
+108 Roses: “Will you marry me?” 365 Roses: You have my undying love.
+
+What does 25 roses mean?
+
+25 Roses – for wishing happiness of the world. 27 Roses – gift a bouquet of 27 roses to your wife to communicate how much you love her. 30 Roses – this number signifies faithfulness. 33 Roses – symbolizes affection.
+
+What does 21 roses mean?
+
+21 Roses – show your commitment with a bouquet of 21 roses. 22 Roses – this quantity boasts two meanings – togetherness and luck. 24 Roses – let a special somebody know they're always on your mind with a gift of 24 single rose stems. 25 Roses – wish someone all the happiness in the world with 25 roses.
+
+What does 500 roses mean?
+
+500 Roses has a meaning attached to extraordinary love to your wife/husband which makes her extra special. • 500 premium roses arrangement in HEART shape and written "I Love U" in the center with white roses.
+
+Why send 13 roses?
+
+13 Roses: Friends forever. 18 Roses: To tell a loved one to stay young and beautiful. It is a symbol of trueness and sincerity. 24 Roses: Signify that special someone is always on your mind 24/7.
+
+https://www.google.com/search?q=Botany+of+rose&oq=Botany+of+rose&aqs=chrome..69i57.16753j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8
