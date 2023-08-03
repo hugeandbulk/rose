@@ -75,8 +75,30 @@ Which chemical is used in rose water?
 
 The volatiles consisted mainly of 2-phenylethanol (69.7–81.6%), linalool (1.5–3.3%), citronellol (1.8–7.2%), nerol (0.2–4.2%), geraniol (0.9–7.0%) along with rose oxides and all other characteristic minor rose compounds. Key Word Index: Rosa damascena. Rosaceae.
 
+Do roses like acidic soil?
 
+Roses require a pH of near 6.5.
 
+6.5 is slightly on the acidic side of neutral. Roses can cope with the soil being slightly higher or lower than 6.5, but may not grow well. If the soil is too acidic it may not grow at all.
 
+What is the smell of roses?
 
+In Conclusion. Roses have a wide range of complicated smells, from floral and tea aromas to spicy, fruity, and musky scents. A rose's appearance is a beautiful sight to behold, and its fragrance is just as lovely. Smelling roses is a magical experience, instilling both an essence of calm and a feeling of raised spirits ...
 
+Is rose food high in potassium?
+
+Naturally rich rose food enriched with horse manure and plant stimulants. High potassium encourages bigger blooms to develop. The right balance of the nutrients keep roses healthy and strong. Enriches and conditions the soil.
+
+Who is the king of flowers?
+
+rose
+
+Answer: A king of flowers is called a rose.
+
+What is the size of a rose flower?
+
+Roses range in size from tiny miniatures of 8 inches tall to tree climbing giants that will reach 50 feet or more. Hybrid tea roses typically grow to 4 to 6 feet tall and floribundas generally range from 3 to 4 feet tall. Most popular pillar and climbing roses reach 8 to 15 feet tall.
+
+What type of symmetry is rose?
+
+In `radial symmetry`, the flower can be divided into two equal parts in any radial plane. Examples: datura, hibiscus, rose, etc.
