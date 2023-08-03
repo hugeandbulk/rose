@@ -15,3 +15,4 @@ Actions:
 - `hit ();`
 - `scoff ();`
 - `quip ();`
+- `quit ();`
