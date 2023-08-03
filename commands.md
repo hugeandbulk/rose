@@ -12,3 +12,4 @@
 - `delete ();`
 - `clean ();`
 - `command ();`
+- `purge ();`
