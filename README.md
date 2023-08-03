@@ -13,3 +13,4 @@ Actions:
 - `rose ();`
 - `symmetry ();`
 - `hit ();`
+- `scoff ();`
