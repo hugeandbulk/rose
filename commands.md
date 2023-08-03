@@ -1,0 +1,14 @@
+#### Actions: Commands
+- `rose ();`
+- `symmetry ();`
+- `hit ();`
+- `scoff ();`
+- `quip ();`
+- `quit ();`
+- `hey ();`
+- `init ();`
+- `deflate ();`
+- `protect ();`
+- `delete ();`
+- `clean ();`
+- `command ();`
