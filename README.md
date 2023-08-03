@@ -9,6 +9,7 @@ _*rose, a php based system (utility ware)*_.
 
 `.rose — rose file.`
 
-Actions
+Actions:
 - `rose ();`
 - `symmetry ();`
+- `hit ();`
