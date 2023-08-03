@@ -16,3 +16,4 @@ Actions:
 - `scoff ();`
 - `quip ();`
 - `quit ();`
+- `hey ();`
