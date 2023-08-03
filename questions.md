@@ -17,3 +17,7 @@ Rosa rubiginosa is the scientific name for rose. Roses belong to the Rosaceae fa
 What are the medicinal uses of roses?
 
 Rose flowers are Anti-depressant, anti-spasmodic, aphrodisiac, astringent, increase bile production, cleansing, anti- bacterial and antiseptic. Rose hips tea is also used in the treatment of diarrhoea. Rose petals are mildly sedative, antiseptic, anti- inflammatory, and anti- parasitic.
+
+What is rose petals called?
+
+Botanical Name : `Rosa Centifolia`.
