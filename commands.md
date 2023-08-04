@@ -15,3 +15,4 @@
 - `collect ();`
 - `purge ();`
 - `mercy ();`
+- `status ();`
