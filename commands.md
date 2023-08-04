@@ -16,3 +16,4 @@
 - `purge ();`
 - `mercy ();`
 - `status ();`
+- `confute ();`
