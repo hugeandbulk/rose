@@ -23,3 +23,8 @@ Actions:
 - `delete ();`
 - `clean ();`
 - `command ();`
+- `collect ();`
+- `purge ();`
+- `mercy ();`
+- `status ();`
+- `confute ();`
